@@ -265,8 +265,8 @@ body {
 .moreWishes {
     position: absolute;
     cursor: pointer;
-    top:77%;
-    width: 20vw;
+    top:87%;
+    width: 22vw;
     left: 20%;
     transform: translate(-50%);
     z-index: 1000;

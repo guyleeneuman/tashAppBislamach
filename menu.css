@@ -173,7 +173,7 @@ body {
     position: absolute;
     width: 30%;
     top: 85%;
-    left: 30%;
+    left: 50%;
     transform: translate(-50%, -50%) scale(1);
     transition: all 0.5s ease-in-out;
     cursor: pointer;

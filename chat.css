@@ -255,7 +255,7 @@ body {
 .moreWishes {
     position: absolute;
     cursor: pointer;
-    top: 73%;
+    top: 76%;
     width: 25%;
     left: 80%;
     transform: translate(-50%);
@@ -288,7 +288,7 @@ body {
 .buttonK14 {
     cursor: pointer;
     position: absolute;
-    top: 30%;
+    top: 32%;
     z-index: 100000;
     left: 45%;
     width: 60%;
@@ -311,7 +311,7 @@ body {
 .buttonK13 {
     cursor: pointer;
     position: absolute;
-    top: 38%;
+    top: 42%;
     z-index: 100000;
     left: 45%;
     width: 60%;
@@ -334,7 +334,7 @@ body {
 .buttonK12 {
     cursor: pointer;
     position: absolute;
-    top: 46%;
+    top: 52%;
     z-index: 100000;
     left: 45%;
     width: 60%;
@@ -357,7 +357,7 @@ body {
 .buttonK11 {
     cursor: pointer;
     position: absolute;
-    top: 54%;
+    top: 62%;
     z-index: 100000;
     left: 45%;
     width: 60%;
@@ -379,7 +379,7 @@ body {
 
 .slide {
     position: absolute;
-    top: 85%;
+    top: 90%;
     z-index: 100000;
     left: 50%;
     /* width: 12vw; */
